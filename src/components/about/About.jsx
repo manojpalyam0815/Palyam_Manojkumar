@@ -41,7 +41,7 @@ const About = () => {
               <small>10+ Projects</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem velit inventore aperiam corrupti neque. At accusantium provident dolorum quidem, libero reiciendis, natus perferendis nisi aliquid saepe ipsa placeat beatae in.</p>
+          <p>An enthusiastic and quick learner, eager to work for an organization which provides me with the opportunity to utilize my skills and knowledge to grow along with the organization.</p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
