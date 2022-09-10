@@ -33,7 +33,7 @@ const Portfolio = () => {
             
              </div>
 
-          <h3> King</h3>
+          <h3> Ludo</h3>
           <div className="portfoli_item_cta">
           <a href="https://github.com" className='btn'>Github</a>
           <a href="https://dribbble.com" className='btn btn-primary' target="_blank"> Live Demo</a>
