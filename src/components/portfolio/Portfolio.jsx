@@ -20,10 +20,10 @@ const Portfolio = () => {
             
              </div>
 
-          <h3> Kingdom</h3>
+          <h3>Portfolio</h3>
           <div className="portfoli_item_cta">
-          <a href="https://github.com" className='btn'>Github</a>
-          <a href="https://dribbble.com" className='btn btn-primary' target="_blank"> Live Demo</a>
+          <a href="https://github.com/manojpalyam0815/Palyam_Manojkumar" className='btn'>Github</a>
+          <a href="https://app.netlify.com/sites/moonlit-eclair-1bddb0/deploys" className='btn btn-primary' target="_blank"> Live Demo</a>
           </div>
         </article>
 
@@ -91,15 +91,6 @@ const Portfolio = () => {
           <a href="https://dribbble.com" className='btn btn-primary' target="_blank"> Live Demo</a>
           </div>
         </article>
-
-
-
-
-
-
-
-       
-
 
       </div>
       </section>
