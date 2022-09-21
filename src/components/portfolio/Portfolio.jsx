@@ -33,10 +33,10 @@ const Portfolio = () => {
             
              </div>
 
-          <h3> Ludo</h3>
+          <h3>ATM Machine</h3>
           <div className="portfoli_item_cta">
-          <a href="https://github.com" className='btn'>Github</a>
-          <a href="https://dribbble.com" className='btn btn-primary' target="_blank"> Live Demo</a>
+          <a href="https://github.com/manojpalyam0815/Atm-Project.git" className='btn'>Github</a>
+          <a href="https://github.com/manojpalyam0815/Atm-Project.git" className='btn btn-primary' target="_blank"> Live Demo</a>
           </div>
         </article>
 
@@ -46,10 +46,10 @@ const Portfolio = () => {
             
              </div>
 
-          <h3> Queen</h3>
+          <h3> Clone-Spotify</h3>
           <div className="portfoli_item_cta">
-          <a href="https://github.com" className='btn'>Github</a>
-          <a href="https://dribbble.com" className='btn btn-primary' target="_blank"> Live Demo</a>
+          <a href="https://github.com/manojpalyam0815/clone-spotify.git" className='btn'>Github</a>
+          <a href="https://github.com/manojpalyam0815/clone-spotify.git" className='btn btn-primary' target="_blank"> Live Demo</a>
           </div>
         </article>
 
@@ -59,10 +59,10 @@ const Portfolio = () => {
             
              </div>
 
-          <h3> Soldier</h3>
+          <h3> Tic Tac Toe</h3>
           <div className="portfoli_item_cta">
-          <a href="https://github.com" className='btn'>Github</a>
-          <a href="https://dribbble.com" className='btn btn-primary' target="_blank"> Live Demo</a>
+          <a href="https://github.com/manojpalyam0815/tic-tac.git" className='btn'>Github</a>
+          <a href="https://github.com/manojpalyam0815/tic-tac.git" className='btn btn-primary' target="_blank"> Live Demo</a>
           </div>
         </article>
 
@@ -72,7 +72,7 @@ const Portfolio = () => {
             
              </div>
 
-          <h3> Army</h3>
+          <h3> Loading..</h3>
           <div className="portfoli_item_cta">
           <a href="https://github.com" className='btn'>Github</a>
           <a href="https://dribbble.com" className='btn btn-primary' target="_blank"> Live Demo</a>
@@ -85,7 +85,7 @@ const Portfolio = () => {
             
              </div>
 
-          <h3>Elephant</h3>
+          <h3>Loading..</h3>
           <div className="portfoli_item_cta">
           <a href="https://github.com" className='btn'>Github</a>
           <a href="https://dribbble.com" className='btn btn-primary' target="_blank"> Live Demo</a>
