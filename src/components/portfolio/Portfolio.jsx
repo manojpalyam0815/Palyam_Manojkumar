@@ -23,7 +23,7 @@ const Portfolio = () => {
           <h3>Portfolio</h3>
           <div className="portfoli_item_cta">
           <a href="https://github.com/manojpalyam0815/Palyam_Manojkumar" className='btn'>Github</a>
-          <a href="https://app.netlify.com/sites/moonlit-eclair-1bddb0/deploys" className='btn btn-primary' target="_blank"> Live Demo</a>
+          <a href="https://moonlit-eclair-1bddb0.netlify.app" className='btn btn-primary' target="_blank"> Live Demo</a>
           </div>
         </article>
 
